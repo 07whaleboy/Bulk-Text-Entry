@@ -1,2 +1,3 @@
 # Bulk-Text-Entry
-This is some placeholder text, will write the README later.
+This is a utility that allows you to write words or phrases to a text file in bulk with or without a GUI.
+That's it.
